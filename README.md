@@ -5,7 +5,7 @@ with an optional picture or voice message, no account needed.
 
 Live: https://sakasidea.noiraunoir.com
 
-This is deliberately **separate from the client portal** at sakas.noiraunoir.com
+This is deliberately **separate from the client portal** at noiraunoir.com/sakas/
 (that one keeps its own request box). A GitHub Pages repo can only carry one
 custom domain, so this page needs its own repo.
 
